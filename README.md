@@ -1,2 +1,2 @@
-# NewasApp
-NewasApp using reactjs and bootstrap html ,css 
+# NewsApp
+NewsApp using reactjs and bootstrap HTML ,CSS 
